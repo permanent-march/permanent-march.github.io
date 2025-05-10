@@ -1,13 +1,10 @@
-
-p {
-font-family: "Noto Sans Japanese",sans-serif;
-}
-
+/* aタグ用リセットスタイル */
 a {
   color: #000;
   text-decoration: none;
 }
 
+/* 下線が左から流れるアニメーション */
 .text {
   padding-bottom: 3px; /* テキストと下線の間隔 */
   font-size: 60px;
