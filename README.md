@@ -1,1 +1,1 @@
-# otonesuya.github.io
+http://isserver.stars.ne.jp/
