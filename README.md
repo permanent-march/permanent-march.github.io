@@ -1,1 +1,1 @@
-http://isserver.stars.ne.jp/
+https://lit.link/permanentmarch
